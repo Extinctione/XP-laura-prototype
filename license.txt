@@ -1,0 +1,15 @@
+Copyright (c) 2025 Extinctione
+
+All rights reserved.
+
+This project, including its source code, design, documentation, and concept (collectively "XPlora"), is the intellectual property of the creator.
+
+Permission is hereby granted to view and learn from the source code for educational purposes only.  
+You are NOT permitted to:  
+- Copy, modify, or redistribute this project, in whole or in part, without explicit written permission from the creator.  
+- Use the project’s name, idea, or branding for commercial or non-commercial purposes.  
+- Claim authorship of this work.  
+
+Any unauthorized use of this repository or its contents is strictly prohibited.  
+
+For permissions, please contact the creator directly.
